@@ -1,0 +1,25 @@
+.container{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+img{
+    width: 100px;
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    background-color: rgb(6, 161, 140);
+    color: white;
+    outline: 0;
+    font-weight: 700;
+    border: 0px none;
+    cursor: pointer;
+    margin: 50%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
